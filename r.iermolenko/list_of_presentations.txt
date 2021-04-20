@@ -1,12 +1,12 @@
 
 
 Структуры данных (без STL):
-- список (list)                           
+- список (list) - Alex Skorenok                           
 - очередь (FIFO)
-- стек (LIFO)                             
+- стек (LIFO) - Nadiia Maslova                           
 - куча (heap) - Prudiev Igor                            
 - система непересекающихся множеств (disjoint-set data structure) 
-- Хеш таблица (map)                       
+- Хеш таблица (map) - Daniil Kirhetov                      
  
 Базовые алгоритмы:
 - сортировки за O(NlogN) - Alex Kshyvanskyi
