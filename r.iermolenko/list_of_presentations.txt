@@ -6,7 +6,7 @@
 - стек (LIFO) - Nadiia Maslova                           
 - куча (heap) - Prudiev Igor                            
 - система непересекающихся множеств (disjoint-set data structure) 
-- Хеш таблица (map) - Daniil Kirhetov                      
+- Хеш таблица (map) - Olha Lavoryk                      
  
 Базовые алгоритмы:
 - сортировки за O(NlogN) - Alex Kshyvanskyi
