@@ -5,7 +5,7 @@
 - очередь (FIFO)
 - стек (LIFO) - Nadiia Maslova                           
 - куча (heap) - Prudiev Igor                            
-- система непересекающихся множеств (disjoint-set data structure) 
+- система непересекающихся множеств (disjoint-set data structure) - Daniil Kirhetov
 - Хеш таблица (map) - Olha Lavoryk                      
  
 Базовые алгоритмы:
