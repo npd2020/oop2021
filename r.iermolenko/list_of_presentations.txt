@@ -2,7 +2,7 @@
 
 Структуры данных (без STL):
 - список (list) - Alex Skorenok                           
-- очередь (FIFO)
+- очередь (FIFO) - Alex Kshyvanskyi
 - стек (LIFO) - Nadiia Maslova                           
 - куча (heap) - Prudiev Igor                            
 - система непересекающихся множеств (disjoint-set data structure) - Daniil Kirhetov
