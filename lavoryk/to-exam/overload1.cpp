@@ -5,7 +5,7 @@ using namespace std;
 class Stack{
 protected:
 
-  enum{MAX = 3;}  //stack size
+  enum{MAX = 3};  //stack size
   int st[MAX];
   int top;      // last element index
 
@@ -26,13 +26,13 @@ class Stack2 :  public Stack{
 public:
   void push (int var){
       if(top >= MAX - 1){
-         cout  <<   "\nError: stack overflow"; <<endl;
+         cout  <<   "\nError: stack overflow" <<endl;
       }
   }
 
   int pop()  {
     if(top < 0){
-      cout  <<   "\nError: stack is empty"; <<endl;
+      cout  <<   "\nError: stack is empty" <<endl;
     }
   }
 
