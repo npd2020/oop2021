@@ -3,12 +3,8 @@
 
 using namespace std;
 
-// 0 ***** 3
-// * *
-// *  *
-// *   2
-// * *  *
-// 1     4
+// 0 ** 2 ** 3
+// * 1 *
 
 class Graph {
   int numVertices;
